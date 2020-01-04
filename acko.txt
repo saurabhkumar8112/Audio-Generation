@@ -1,0 +1,4 @@
+Some important resource i got
+1. wavio, a very nice library for reading a wav file of any bit depth or of any sampling rate
+2. natsort, for sorting in "logically correct" order rather than lexographically correct
+3. AudioSegment for converting any mp3 file to wav, was difficult to debug, cause i missed some package while installing
