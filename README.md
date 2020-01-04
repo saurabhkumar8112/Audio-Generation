@@ -4,6 +4,6 @@ So basically I am training a GAN to produce violin sounds. Pretty cool huhh. Now
 
 One thing that could have been done is to take only the amplitude value of the sound but this doesn't take into account the phase of a musical sound. So here we use something different. A spectrogram, which is a graphical representation of an audio signal. Like show here.
 
-![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Audio-Generation/edit/master/Spectrograms/1.JPG)
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Audio-Generation/master/Spectrograms/1.JPG)
 
 
